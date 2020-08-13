@@ -6,6 +6,6 @@ It is a responsive and mobile friendly application that is written using HTML, C
 # Live Project
 [Click here](https://selenozkan.github.io/quote-generator) to check out the live project.
 
-## Source of the project:
+### Source of the project:
 [Click here](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) to access project source.
 
