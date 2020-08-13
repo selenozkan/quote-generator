@@ -7,5 +7,5 @@ It is a responsive and mobile friendly application that is written using HTML, C
 [Click here] () to check out the live project.
 
 ## Source of the project:
-[Click here] (https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) to access project source.
+[Click here](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) to access project source.
 
